@@ -1,0 +1,20 @@
+pytorch2.0.1:Ù
+0
+input/Softplus_output_0	/Softplus"Softplus
+1
+/Softplus_output_0/Tanh_output_0/Tanh"Tanh
+%
+input
+/Tanh_output_03/Mul"Mul	torch_jitZ!
+input
+
+
+
+à
+àb
+3
+
+
+
+à
+àB
